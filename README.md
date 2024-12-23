@@ -21,6 +21,9 @@
 <br/>  
 
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HandTy&repo=github-readme-stats&theme=radical)](https://github.com/HandTy/Cam)
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
