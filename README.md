@@ -24,6 +24,13 @@
 
 [![Cam](https://github-readme-stats.vercel.app/api/pin/?username=Ashera12&repo=Cam&theme=radical)](https://github.com/Ashera12/Cam)
 
+[![MAS](https://github-readme-stats.vercel.app/api/pin/?username=Ashera12&repo=MAS&theme=radical)](https://github.com/Ashera12/MAS)
+
+[![WIFI](https://github-readme-stats.vercel.app/api/pin/?username=Ashera12&repo=WIFI&theme=radical)](https://github.com/Ashera12/WIFI)
+
+[![FFP](https://github-readme-stats.vercel.app/api/pin/?username=Ashera12&repo=FFP&theme=radical)](https://github.com/Ashera12/FFP)
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
