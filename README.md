@@ -1,4 +1,4 @@
-### <div align="center">I'm HandTy, a full-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
+### <div align="center">I'm Ashera12, a full-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
   
 
 <div align="center">
@@ -22,7 +22,7 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HandTy&repo=github-readme-stats&theme=radical)](https://github.com/HandTy/Cam)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ashera12&repo=github-readme-stats&theme=radical)](https://github.com/Ashera12/Cam)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -101,7 +101,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HandTy&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ashera12&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
 
 <br/>  
 
