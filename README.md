@@ -22,7 +22,7 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ashera12&repo=github-readme-stats&theme=radical)](https://github.com/Ashera12/Cam)
+[![Cam](https://github-readme-stats.vercel.app/api/pin/?username=Ashera12&repo=github-readme-stats&theme=radical)](https://github.com/Ashera12/Cam)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
