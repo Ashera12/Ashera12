@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 <div align="center">
-Thanks for your motivation A Sani
+Thanks for your motivation
 </div
 
 
