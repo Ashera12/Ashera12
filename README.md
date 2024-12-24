@@ -22,13 +22,13 @@
 
 # My repositories
 
-[![Cam](https://github-readme-stats.vercel.app/api/pin/?username=Ashera12&repo=Cam&theme=radical)](https://github.com/Ashera12/Cam.git)
+[![Cam](https://github-readme-stats.vercel.app/api/pin/?username=Ashera12&repo=Ca&theme=radical)](https://github.com/Ashera12/Cam.git)
 
-[![MAS](https://github-readme-stats.vercel.app/api/pin/?username=Ashera12&repo=MAS&theme=radical)](https://github.com/Ashera12/MAS)
+[![MAS](https://github-readme-stats.vercel.app/api/pin/?username=Ashera12&repo=MA&theme=radical)](https://github.com/Ashera12/MAS)
 
-[![WIFI](https://github-readme-stats.vercel.app/api/pin/?username=Ashera12&repo=WIFI&theme=radical)](https://github.com/Ashera12/WIFI)
+[![WIFI](https://github-readme-stats.vercel.app/api/pin/?username=Ashera12&repo=WIF&theme=radical)](https://github.com/Ashera12/WIFI)
 
-[![FFP](https://github-readme-stats.vercel.app/api/pin/?username=Ashera12&repo=FFP&theme=radical)](https://github.com/Ashera12/FFP)
+[![FFP](https://github-readme-stats.vercel.app/api/pin/?username=Ashera12&repo=FF&theme=radical)](https://github.com/Ashera12/FFP)
 
 [![PYMD](https://github-readme-stats.vercel.app/api/pin/?username=Ashera12&repo=PYMD&theme=radical)](https://github.com/Ashera12/PYMD)
 
