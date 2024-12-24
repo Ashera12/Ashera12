@@ -22,7 +22,7 @@
 
 # My repository
 
-[![Cam](https://github-readme-stats.vercel.app/api/pin/?username=Ashera12&repo=Cam&theme=radical)](https://github.com/Ashera12/Cam)
+[![Cam](https://github-readme-stats.vercel.app/api/pin/?username=Ashera12&repo=Cam&theme=radical)](https://github.com/Ashera12/Cam.git)
 
 [![MAS](https://github-readme-stats.vercel.app/api/pin/?username=Ashera12&repo=MAS&theme=radical)](https://github.com/Ashera12/MAS)
 
