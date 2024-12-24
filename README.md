@@ -20,7 +20,7 @@
 
 <br/>  
 
-# My repository
+# My repositories
 
 [![Cam](https://github-readme-stats.vercel.app/api/pin/?username=Ashera12&repo=Cam&theme=radical)](https://github.com/Ashera12/Cam.git)
 
